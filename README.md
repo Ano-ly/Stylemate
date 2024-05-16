@@ -32,7 +32,7 @@ I discussed the idea with my teammate, who's also an Engineering student, and he
 > The two major features of the application are the 'Describe Wardrobe' and the 'Get Outfit Recommendation' features. The former can be accessed upon a click on a button in the Stylemate home page. The user essentially inputs the number of each clothing item displayed in a list on the page and clicks on a button to record the information. The latter feature can be accessed on another page that leads from the home page, where four 'themes' are available to choose from.
 In retrospect, I'm amazed at how we went from a place of confusion and uncertainty, to a place where we're able to call a finished app our own. I believe two major factors that contributed to our success in developing the app within the time frame given were time management and adequate planning.
 > 
-> I would say Stylemate's frontend has a very simple design, which is partially due to the time frame and our moderate level of expertise with UI/UX. We initially aimed for an app that was very simple to use, and we had a result very close to what we wanted, but the UI/UX of the application would certainly benefit from more touch-ups and refining.
+> Stylemate's frontend has a very simple design, which is partially due to the time frame and our moderate level of expertise with UI/UX. We initially aimed for an app that was very simple to use, and we had a result very close to what we wanted, but the UI/UX of the application would certainly benefit from more touch-ups and refining.
 
 ## Installation
 - Clone repository to your system
