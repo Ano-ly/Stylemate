@@ -4,10 +4,8 @@
 StyleMate is a web application designed to help users effortlessly choose outfits suitable for various occasions . Whether you're heading to work, a casual outing, or a special event, StyleMate has got you covered. Simply input your destination, and StyleMate will curate a stylish ensemble saving you time and effort in deciding what to wear. Here's our project blog post: https://medium.com/@amarachiuvere/how-i-developed-my-very-first-web-application-ever-stylemate-82ef7f087e86
 
 ## Features
-<!-- - **Outfit Generation**: Generate outfits tailored to different occasions. Styling is made easy, as only the clothing items you actually have are used in outfit recommendation. -->
-<!-- - **Wardrobe Description and Management**: Easily manage and categorize your wardrobe items within the application. -->
-- **Favorites**: Save your favorite outfits for future reference or inspiration.
-- **User-friendly Interface**: StyleMate offers an intuitive and visually appealing interface for seamless navigation.
+**Outfit Generation**: Generate outfits tailored to different occasions. Styling is made easy, as only the clothing items you actually have are used in outfit recommendation.
+**Wardrobe Description and Management**: Easily manage and categorize your wardrobe items within the application.
 
 ## Authors
 
@@ -17,6 +15,7 @@ StyleMate is a web application designed to help users effortlessly choose outfit
 - [Amarachi Uvere](https://www.linkedin.com/in/amarachiuvereminiProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADt7CMwBNm4rgSwg3ENBYEkR6uMjSmQ_fq8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BVOW%2BgV30TzOytB0MHcnmow%3D%3D)
 
   Software Engineer; Civil Engineering Student, Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria
+  
 ## The Story Behind Stylemate
 > As part of our learning process at ALx Holberton School of Software Engineering, we were required to come up with an idea for our portfolio project and work on it from start to finish within 2–4 weeks in groups of 2–3.
 Several thoughts ran through my head at the time. What would this project be about? What kind of app would I develop? What frameworks and technologies would I use?
@@ -40,7 +39,7 @@ In retrospect, I'm amazed at how we went from a place of confusion and uncertain
 
 ## Usage
 - Make sure your SQL server is up and running
-- Run the _setup_mysql.sql_ file in your sql server
+- Run the _setup_mysql.sql_ file in your sql server if you're using the app for the first time
    ```
    sudo cat setup_mysql.sql | mysql -uroot -p
    ```
@@ -50,6 +49,8 @@ In retrospect, I'm amazed at how we went from a place of confusion and uncertain
   ```
   http://0.0.0.0:5000
   ```
+- Run _end_progam.sh_ in your terminal once you're done
+  
   ### Explore the app!
   - Input your name and age in the user login page that comes up on your screen
   - Navigate to the page where you describe your wardrobe by clicking the 'Describe your Wardrobe' button
@@ -72,5 +73,16 @@ Contributions are welcome! If you'd like to contribute to StyleMate, please foll
 - [ ] Colour Matching
 - [ ] Outfit Recommendation Outside User Wardrobe
 
+## Notes
+If you wish to change your user information, 
+- Run _end_program.sh_
+- Run _set_up.sh_
+- Run _reset_user.sh_
+- Navigate to your web browser and enter:
+  ```
+  http://0.0.0.0:5000
+  ```
+- You can now input your new information
+  
 ## Licensing 
 MIT License
