@@ -5,6 +5,7 @@ StyleMate is a web application designed to help users effortlessly choose outfit
 
 ## Features
 **Outfit Generation**: Generate outfits tailored to different occasions. Styling is made easy, as only the clothing items you actually have are used in outfit recommendation.
+
 **Wardrobe Description and Management**: Easily manage and categorize your wardrobe items within the application.
 
 ## Authors
