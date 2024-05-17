@@ -182,7 +182,7 @@ outfit_bottoms_dict = {
         },
     'dinner': {
         'male': ['pants trousers',
-                 'silk trousers'
+                 'silk trousers',
                  'suit trousers',
                  'corduroy pants',
                  'tweed trousers',
@@ -211,7 +211,7 @@ outfit_bottoms_dict = {
                    ]
         },
     'exercise': {
-        'male': ['3/4 shorts'
+        'male': ['3/4 shorts',
                  'athletic shorts',
                  'athletic leggings',
                  'track pants',

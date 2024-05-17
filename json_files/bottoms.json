@@ -47,7 +47,8 @@
    "dinner": {
       "male": [
          "pants trousers",
-         "silk trouserssuit trousers",
+         "silk trousers",
+         "suit trousers",
          "corduroy pants",
          "tweed trousers",
          "linen pants",
@@ -77,7 +78,8 @@
    },
    "exercise": {
       "male": [
-         "3/4 shortsathletic shorts",
+         "3/4 shorts",
+         "athletic shorts",
          "athletic leggings",
          "track pants",
          "joggers",

@@ -78,9 +78,9 @@ label {
     left: 25%;
     overflow-x: hidden;
     overflow-y: auto;
-    font-size: 8px;
+    font-size: 12px;
     margin: 10px;
-    padding-top: 6px;
+    padding-top: 3px;
     line-height: 12px;
     border: 7px solid rgb(236, 184, 219);
     border-radius: 10px;
@@ -96,9 +96,9 @@ label {
     left: 25%;
     overflow-x: hidden;
     overflow-y: auto;
-    font-size: 8px;
+    font-size: 12px;
     margin: 10px;
-    padding-top: 6px;
+    padding-top: 3px;
     line-height: 12px;
     border: 7px solid rgb(236, 184, 219);
     border-radius: 10px;
