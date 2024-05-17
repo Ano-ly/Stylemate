@@ -1,6 +1,7 @@
 # StyleMate
 
 ## Overview
+![Description of the image](https://drive.google.com/file/d/1uQXV2cN5iEbEogs5ieFWu83zFif57P76/view?usp=sharing)
 StyleMate is a web application designed to help users effortlessly choose outfits suitable for various occasions . Whether you're heading to work, a casual outing, or a special event, StyleMate has got you covered. Simply input your destination, and StyleMate will curate a stylish ensemble saving you time and effort in deciding what to wear. Here's our project blog post: https://medium.com/@amarachiuvere/how-i-developed-my-very-first-web-application-ever-stylemate-82ef7f087e86
 
 ## Features
